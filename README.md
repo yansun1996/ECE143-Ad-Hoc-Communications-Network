@@ -6,7 +6,7 @@
 
 * ```Example.ipynb```: Tutorial for how to use the Region class and its function in Region_Class.py. (The solutions to all the problems are also included in this Jupyter Notebook)
 
-NOTE: The analysis part of the solution is also included at the bottom of Example.ipynb.
+NOTE: The analysis part of the solution is also included at the bottom of Example.ipynb. More optimization needed.
 
 # Analysis of Ad-Hoc Communications Network
 
